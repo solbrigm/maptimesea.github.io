@@ -3,16 +3,16 @@ layout: tut
 title: "Introduction to Tableau (2)"
 ---
 
-# Before we begin...
+# Before we begin: Download 4 things:
 
 * Do you have the most recent version of Tableau Public installed? [Click to download](https://public.tableau.com/en-us/s/download/thanks)
 
 * Download workbook from [Tableau Public](https://public.tableau.com/profile/solbrigm#!/vizhome/MapTime_0/IntroKaggle). Download Workbook link is in the top corner of the workbook.
 ![image](../img/tableau_download_workbook.PNG)
 
-* Download data [Zillow](http://files.zillowstatic.com/research/public/Neighborhood.zip): Find the link that says "Neighborhood" and click it to download.
+* Download data [Zillow](http://files.zillowstatic.com/research/public/Neighborhood.zip).
 
-* Download [Zillow Neighbor Boundaries](https://www.zillow.com/howto/api/neighborhood-boundaries.htm): Find the link that says "Washington Neighborhood Boundaries" and click it.
+* Download [Zillow Neighbor Boundaries](https://www.zillowstatic.com/static-neighborhood-boundaries/LATEST/static-neighborhood-boundaries/shp/ZillowNeighborhoods-WA.zip).
 
 # About Tableau
 
